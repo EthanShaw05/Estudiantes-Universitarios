@@ -2,701 +2,901 @@
     {
         "UserID": "2022-8984",
         "ID": 1,
+        "Nombre": "Juan Pérez Rodríguez",
         "Titulo": "Psicología",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2021-1825",
         "ID": 2,
+        "Nombre": "María Gómez Sánchez",
         "Titulo": "Derecho",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2022-1359",
         "ID": 3,
+        "Nombre": "Luis Fernández Martínez",
         "Titulo": "Contabilidad",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2020-6968",
         "ID": 4,
+        "Nombre": "Ana López García",
         "Titulo": "Arquitectura",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2023-8544",
         "ID": 5,
+        "Nombre": "Carlos Díaz Hernández",
         "Titulo": "Marketing",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2021-8994",
         "ID": 6,
+        "Nombre": "Sofía Ramírez Torres",
         "Titulo": "Derecho",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2020-3383",
         "ID": 7,
+        "Nombre": "Miguel Castro Vargas",
         "Titulo": "Administración de Empresas",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2023-2297",
         "ID": 8,
+        "Nombre": "Laura Méndez Ortiz",
         "Titulo": "Contabilidad",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2021-9392",
         "ID": 9,
+        "Nombre": "José Santana Cruz",
         "Titulo": "Psicología",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2022-9939",
         "ID": 10,
-        "Titulo": "Dere Criminología",
+        "Nombre": "Daniela Reyes Morales",
+        "Titulo": "Derecho",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Dominicana O&M (O&M)"
+        "Universidad": "Universidad Dominicana O&M (O&M)",
+        "LogoUniversidad": "https://www.udoym.edu.do/wp-content/uploads/2021/01/logo-oym-recuadro-azul.jpg"
     },
     {
         "UserID": "2021-1083",
         "ID": 11,
+        "Nombre": "Andrés Vargas Peña",
         "Titulo": "Psicología",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2023-6493",
         "ID": 12,
+        "Nombre": "Clara Torres Jiménez",
         "Titulo": "Marketing",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2021-2963",
         "ID": 13,
+        "Nombre": "Pedro Núñez Batista",
         "Titulo": "Contabilidad",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2022-8393",
         "ID": 14,
+        "Nombre": "Valeria Guzmán Polanco",
         "Titulo": "Derecho",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2020-5493",
         "ID": 15,
+        "Nombre": "Rafael Acosta Paredes",
         "Titulo": "Arquitectura",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2020-4935",
         "ID": 16,
+        "Nombre": "Elena Rosario Almonte",
         "Titulo": "Turismo",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2021-3451",
         "ID": 17,
+        "Nombre": "David Morales Ventura",
         "Titulo": "Medicina",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2023-7394",
         "ID": 18,
+        "Nombre": "Isabella Medina Castillo",
         "Titulo": "Ingeniería de Software",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2020-8693",
         "ID": 19,
+        "Nombre": "Gabriel Ortiz Sánchez",
         "Titulo": "Psicología",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2022-6511",
         "ID": 20,
+        "Nombre": "Carmen Herrera Díaz",
         "Titulo": "Derecho",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)"
+        "Universidad": "Universidad Autónoma de Santo Domingo (UASD)",
+        "LogoUniversidad": "https://www.grupolarabida.org/wp-content/uploads/2020/10/RepublicaDominicana_UniversidadAutonomadeSantoDomingo_UASD_75_.jpg"
     },
     {
         "UserID": "2023-9683",
         "ID": 21,
+        "Nombre": "Santiago Luna Mejía",
         "Titulo": "Marketing",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2021-5925",
         "ID": 22,
+        "Nombre": "Paula Espinal Rivas",
         "Titulo": "Administración de Empresas",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2022-3052",
         "ID": 23,
+        "Nombre": "Diego Valerio Báez",
         "Titulo": "Contabilidad",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2020-4281",
         "ID": 24,
+        "Nombre": "Camila Pimentel Lora",
         "Titulo": "Psicología",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2023-7536",
         "ID": 25,
+        "Nombre": "Eduardo Taveras Aquino",
         "Titulo": "Derecho",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2021-5283",
         "ID": 26,
+        "Nombre": "Natalia Peralta Gil",
         "Titulo": "Turismo",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2020-8999",
         "ID": 27,
+        "Nombre": "Francisco Montero Salazar",
         "Titulo": "Medicina",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2023-1816",
         "ID": 28,
+        "Nombre": "Lorena Cordero Franco",
         "Titulo": "Arquitectura",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2021-6488",
         "ID": 29,
+        "Nombre": "Ángel Moya Cedano",
         "Titulo": "Comunicación Social",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2022-4831",
         "ID": 30,
+        "Nombre": "Victoria Tejada Ureña",
         "Titulo": "Ingeniería de Software",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)"
+        "Universidad": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/c7/PUCMM-c7b13e85.png"
     },
     {
         "UserID": "2020-3365",
         "ID": 31,
+        "Nombre": "Emilio Santos Morel",
         "Titulo": "Derecho",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2023-5916",
         "ID": 32,
+        "Nombre": "Beatriz Collado Marte",
         "Titulo": "Psicología",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2021-8289",
         "ID": 33,
+        "Nombre": "Héctor Figueroa Peguero",
         "Titulo": "Administración de Empresas",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2022-1893",
         "ID": 34,
+        "Nombre": "Marina Velázquez De León",
         "Titulo": "Marketing",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2020-9948",
         "ID": 35,
+        "Nombre": "Javier Amaro Perdomo",
         "Titulo": "Contabilidad",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2023-2048",
         "ID": 36,
+        "Nombre": "Alejandra Féliz Rojas",
         "Titulo": "Turismo",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2021-4737",
         "ID": 37,
+        "Nombre": "Ricardo Liriano Vásquez",
         "Titulo": "Medicina",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2022-6324",
         "ID": 38,
+        "Nombre": "Gabriela Suero Almanzar",
         "Titulo": "Arquitectura",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2020-7462",
         "ID": 39,
+        "Nombre": "Óscar Polanco Ventura",
         "Titulo": "Comunicación Social",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2023-4558",
         "ID": 40,
+        "Nombre": "Lucía Tineo Holguín",
         "Titulo": "Ingeniería de Software",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)"
+        "Universidad": "Instituto Tecnológico de Santo Domingo (INTEC)",
+        "LogoUniversidad": "https://static.wixstatic.com/media/40aa5a_86ac32e4ed4144b2862b93fec039f190~mv2_d_2276_1400_s_2.png/v1/fill/w_1600,h_984,al_c,q_90/file.jpg"
     },
     {
         "UserID": "2021-3649",
         "ID": 41,
+        "Nombre": "Manuel Cáceres Durán",
         "Titulo": "Derecho",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2022-5568",
         "ID": 42,
+        "Nombre": "Elena Báez Tejeda",
         "Titulo": "Psicología",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2020-8015",
         "ID": 43,
+        "Nombre": "Félix Montero Rivas",
         "Titulo": "Administración de Empresas",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2023-1113",
         "ID": 44,
+        "Nombre": "Samantha Núñez Guzmán",
         "Titulo": "Marketing",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2021-7712",
         "ID": 45,
+        "Nombre": "Cristian Valdez Ortiz",
         "Titulo": "Contabilidad",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2022-2981",
         "ID": 46,
+        "Nombre": "Mariana Paredes Lora",
         "Titulo": "Turismo",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2020-5253",
         "ID": 47,
+        "Nombre": "Leonardo Castillo Mota",
         "Titulo": "Medicina",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2023-3734",
         "ID": 48,
+        "Nombre": "Alicia Santana Mejía",
         "Titulo": "Arquitectura",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2021-2345",
         "ID": 49,
+        "Nombre": "Raúl Espinal Cedano",
         "Titulo": "Comunicación Social",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2022-7890",
         "ID": 50,
+        "Nombre": "Valentina Almonte Peralta",
         "Titulo": "Ingeniería de Software",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Iberoamericana (UNIBE)"
+        "Universidad": "Universidad Iberoamericana (UNIBE)",
+        "LogoUniversidad": "https://www.uma.es/media/fotos/image_58722.jpeg"
     },
     {
         "UserID": "2020-1234",
         "ID": 51,
+        "Nombre": "Jorge Taveras Aquino",
         "Titulo": "Derecho",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2023-5678",
         "ID": 52,
+        "Nombre": "Isabel Polanco Ventura",
         "Titulo": "Psicología",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2021-9012",
         "ID": 53,
+        "Nombre": "Ramón Méndez Torres",
         "Titulo": "Administración de Empresas",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2022-3456",
         "ID": 54,
+        "Nombre": "Carolina Ortiz Rojas",
         "Titulo": "Marketing",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2020-7890",
         "ID": 55,
+        "Nombre": "Sebastián Guzmán Féliz",
         "Titulo": "Contabilidad",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2023-1234",
         "ID": 56,
+        "Nombre": "Patricia Lora Pimentel",
         "Titulo": "Turismo",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2021-5678",
         "ID": 57,
+        "Nombre": "Tomás Rosario Cedano",
         "Titulo": "Medicina",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2022-9012",
         "ID": 58,
+        "Nombre": "Luz Vargas Almanzar",
         "Titulo": "Arquitectura",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2020-3456",
         "ID": 59,
+        "Nombre": "Esteban Peralta Moya",
         "Titulo": "Comunicación Social",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2023-7890",
         "ID": 60,
+        "Nombre": "Mónica Tejeda Suero",
         "Titulo": "Ingeniería de Software",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)"
+        "Universidad": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+        "LogoUniversidad": "https://www.intec.edu.do/templates/yootheme/cache/0e/UNPHU-0ea7c3fe.png"
     },
     {
         "UserID": "2021-1122",
         "ID": 61,
+        "Nombre": "Felipe Amaro Tineo",
         "Titulo": "Derecho",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2022-3344",
         "ID": 62,
+        "Nombre": "Sonia Figueroa Liriano",
         "Titulo": "Psicología",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2020-5566",
         "ID": 63,
+        "Nombre": "Pablo Velázquez Collado",
         "Titulo": "Administración de Empresas",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2023-7788",
         "ID": 64,
+        "Nombre": "Clara Montero Valdez",
         "Titulo": "Marketing",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2021-9900",
         "ID": 65,
+        "Nombre": "Ignacio Paredes Báez",
         "Titulo": "Contabilidad",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2022-2121",
         "ID": 66,
+        "Nombre": "Diana Santana Núñez",
         "Titulo": "Turismo",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2020-4343",
         "ID": 67,
+        "Nombre": "Mario Guzmán Espinal",
         "Titulo": "Medicina",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2023-6565",
         "ID": 68,
+        "Nombre": "Andrea Ortiz Perdomo",
         "Titulo": "Arquitectura",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2021-8787",
         "ID": 69,
+        "Nombre": "Samuel Rojas Taveras",
         "Titulo": "Comunicación Social",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2022-0909",
         "ID": 70,
+        "Nombre": "Teresa Almonte Cedano",
         "Titulo": "Ingeniería de Software",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Tecnológica de Santiago (UTESA)"
+        "Universidad": "Universidad Tecnológica de Santiago (UTESA)",
+        "LogoUniversidad": "https://pbs.twimg.com/profile_images/783336810676006914/HDJDMj4m_400x400.jpg"
     },
     {
         "UserID": "2020-1357",
         "ID": 71,
+        "Nombre": "Víctor Pimentel Lora",
         "Titulo": "Derecho",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2023-2468",
         "ID": 72,
+        "Nombre": "Rosa Méndez Polanco",
         "Titulo": "Psicología",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2021-3579",
         "ID": 73,
+        "Nombre": "Enrique Torres Féliz",
         "Titulo": "Administración de Empresas",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2022-4680",
         "ID": 74,
+        "Nombre": "Lorena Valdez Rosario",
         "Titulo": "Marketing",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2020-5791",
         "ID": 75,
+        "Nombre": "Julio Núñez Santana",
         "Titulo": "Contabilidad",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2023-6802",
         "ID": 76,
+        "Nombre": "Celia Peralta Guzmán",
         "Titulo": "Turismo",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2021-7913",
         "ID": 77,
+        "Nombre": "Alfredo Castillo Mota",
         "Titulo": "Medicina",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2022-8024",
         "ID": 78,
+        "Nombre": "Miranda Espinal Tejeda",
         "Titulo": "Arquitectura",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2020-9135",
         "ID": 79,
+        "Nombre": "Hugo Taveras Báez",
         "Titulo": "Comunicación Social",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2023-0246",
         "ID": 80,
+        "Nombre": "Liliana Ortiz Paredes",
         "Titulo": "Ingeniería de Software",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad APEC (UNAPEC)"
+        "Universidad": "Universidad APEC (UNAPEC)",
+        "LogoUniversidad": "https://www.fundapec.edu.do/wp-content/uploads/2023/06/logo-unapec_color.jpg"
     },
     {
         "UserID": "2021-1470",
         "ID": 81,
+        "Nombre": "Adrián Lora Montero",
         "Titulo": "Derecho",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2022-2581",
         "ID": 82,
+        "Nombre": "Esther Guzmán Almonte",
         "Titulo": "Psicología",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2020-3692",
         "ID": 83,
+        "Nombre": "Simón Pimentel Cedano",
         "Titulo": "Administración de Empresas",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2023-4803",
         "ID": 84,
+        "Nombre": "Rebeca Santana Torres",
         "Titulo": "Marketing",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2021-5914",
         "ID": 85,
+        "Nombre": "Mateo Núñez Rojas",
         "Titulo": "Contabilidad",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2022-7025",
         "ID": 86,
+        "Nombre": "Sara Valdez Perdomo",
         "Titulo": "Turismo",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2020-8136",
         "ID": 87,
+        "Nombre": "Benjamín Rosario Espinal",
         "Titulo": "Medicina",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2023-9247",
         "ID": 88,
+        "Nombre": "Mía Taveras Guzmán",
         "Titulo": "Arquitectura",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2021-0358",
         "ID": 89,
+        "Nombre": "Elías Ortiz Lora",
         "Titulo": "Comunicación Social",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2022-1469",
         "ID": 90,
+        "Nombre": "Lidia Paredes Montero",
         "Titulo": "Ingeniería de Software",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Católica Nordestana (UCNE)"
+        "Universidad": "Universidad Católica Nordestana (UCNE)",
+        "LogoUniversidad": "https://www.ucne.edu/p/images/logoUCNE.png"
     },
     {
         "UserID": "2020-2580",
         "ID": 91,
+        "Nombre": "Rubén Almonte Tejeda",
         "Titulo": "Derecho",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2023-3691",
         "ID": 92,
+        "Nombre": "Gloria Méndez Santana",
         "Titulo": "Psicología",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2021-4802",
         "ID": 93,
+        "Nombre": "Damián Torres Pimentel",
         "Titulo": "Administración de Empresas",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2022-5913",
         "ID": 94,
+        "Nombre": "Emma Guzmán Valdez",
         "Titulo": "Marketing",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2020-7024",
         "ID": 95,
+        "Nombre": "Iván Rosario Núñez",
         "Titulo": "Contabilidad",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2023-8135",
         "ID": 96,
+        "Nombre": "Julia Peralta Ortiz",
         "Titulo": "Turismo",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2021-9246",
         "ID": 97,
+        "Nombre": "Néstor Espinal Taveras",
         "Titulo": "Medicina",
         "Body": "Futuro profesional con excelentes habilidades de comunicación.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2022-0357",
         "ID": 98,
+        "Nombre": "Zoe Montero Paredes",
         "Titulo": "Arquitectura",
         "Body": "Estudiante con un sólido historial académico y ganas de aprender.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2020-1468",
         "ID": 99,
+        "Nombre": "Bruno Lora Santana",
         "Titulo": "Comunicación Social",
         "Body": "Estudiante dedicado y apasionado por su carrera.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     },
     {
         "UserID": "2023-2579",
         "ID": 100,
+        "Nombre": "Alma Guzmán Tejeda",
         "Titulo": "Ingeniería de Software",
         "Body": "Joven proactivo con gran interés en el desarrollo tecnológico.",
-        "Universidad": "Universidad Abierta para Adultos (UAPA)"
+        "Universidad": "Universidad Abierta para Adultos (UAPA)",
+        "LogoUniversidad": "https://www.diariodigital.com.do/wp-content/uploads/2020/07/LOGO-BLANCO.jpg"
     }
 ]
